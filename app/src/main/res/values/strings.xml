@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Magic Eight Ball</string>
+    <string name="askButton_name">Ask</string>
+    <string name="headerText">Make your decisions easier!</string>
+    <string name="exit_buuton">Quit</string>
 </resources>
